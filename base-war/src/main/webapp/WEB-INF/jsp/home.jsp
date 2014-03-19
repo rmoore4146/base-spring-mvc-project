@@ -3,7 +3,7 @@
 
     <%--Include page <head> element & additional page-specific javascript--%>
     <%@include file="decorator/commonHeadElement.jsp"%>
-    <script type="text/javascript" src="${contextPath}/site/javascript/wedding.js"></script>
+    <%--<script type="text/javascript" src="${contextPath}/site/javascript/wedding.js"></script>--%>
 
     <body>
 

@@ -1,6 +1,6 @@
 var common = {
 
-    basePath: 'wedding/',
+    basePath: '',
 
     postToForm: function(uri, map, newWindowBoolean) {
         $('#defaultForm').remove();

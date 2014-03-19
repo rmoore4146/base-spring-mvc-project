@@ -23,7 +23,7 @@ public class HomeController {
 
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String getNakedURLRedirectPage(ModelMap map, HttpServletRequest request) {
-        return "forward:/home";
+        return "forward:home";
     }
 
     @RequestMapping(value = "/home", method = RequestMethod.GET)

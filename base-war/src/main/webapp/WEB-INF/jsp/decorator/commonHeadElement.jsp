@@ -17,12 +17,12 @@
     <link type="text/css" href="${contextPath}/site/css/common.css" rel="Stylesheet" />
     <script type="text/javascript" src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="${contextPath}/site/javascript/common.js"></script>
-    <script type="text/javascript" src="${contextPath}/site/javascript/holder.js"></script>
+    <%--<script type="text/javascript" src="${contextPath}/site/javascript/holder.js"></script>--%>
     <script type="text/javascript" src="${contextPath}/site/javascript/bootstrap/bootstrap.min.js"></script>
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
-    <script src="../assets/js/html5shiv.js"></script>
+    <!--<script type="text/javascript" src="${contextPath}/site/javascript/html5shiv.js"></script>-->
     <![endif]-->
 
 </head>
